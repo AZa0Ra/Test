@@ -1,3 +1,2 @@
 /Newfolder
-
-*.txt
+Newfolder
